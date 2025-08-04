@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: limit Blog
+SEOTitle: limit的博客 | limit Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: lvchenghao0@gmail.com
+description: "这里是 @limit 的个人博客，想分享自己的成长生活"
+keyword: "嵌入式, 算法, 数学, 北邮, 田径, 锻炼, 电子设计,  博客, 个人网站, 互联网, Web, 数学建模"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
